@@ -67,3 +67,4 @@ plt.show()
 
 print("\n💾 SAVED: 'RBI_NPL_Analysis_2025.png' (300 DPI - Insert as Figure 3.2 in paper)")
 print("✅ Ready for Jamia MSc / Young Economist Competition submission!")
+
